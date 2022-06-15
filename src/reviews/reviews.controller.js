@@ -5,7 +5,7 @@ async function reviewExists(req, res, next) {
     const { reviewId } = req.params;
     const review = await service.read(reviewId);
     if (!review) {
-        return next({ status: 404, message: "Review cannot be found" });
+        return next({ status: 404, message: "Review cannot bew found" });
     } else {
     return next();
     }
