@@ -1,4 +1,4 @@
-const service = require("./reviews.service");
+const service = require("./theaters.service");
 const asyncErrorBoundary = require("../errors/asyncErrorBoundary");
 
 async function getAll(req, res, next) {
