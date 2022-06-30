@@ -1,5 +1,5 @@
 # WeLoveMovies-capstone
-Backend captsone project for Thinkful's Software Engineering Immersion Course
+Backend capstone project for Thinkful's Software Engineering Immersion Course
 
 
 The front end is deployed at the following link:
